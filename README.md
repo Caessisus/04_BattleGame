@@ -7,4 +7,4 @@ Click [here](https://www.youtube.com/watch?v=xeczuybsQr0&feature=youtu.be) to se
 ##Lecture List
 * BG01 Intro, Notes, and Start
 * BG02 Game Design Document : Rules and Concepts
-* 
+* BG03 Setting up GitHub
